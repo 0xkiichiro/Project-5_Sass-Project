@@ -1,7 +1,7 @@
 @import "./base/reset";
 @import "./abstracts/mixin", "./abstracts/variable";
-@import "./components/footer", "./components/nav", "./components/responsive";
 @import "./pages/about", "./pages/contact", "./pages/home", "./pages/projects";
+@import "./components/footer", "./components/nav", "./components/responsive";
 @import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css";
 
 body {
